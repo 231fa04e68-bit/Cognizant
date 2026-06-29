@@ -1,0 +1,33 @@
+/* Reset defaults */
+* {
+    box-sizing: border-box;
+}
+
+/* Base body styles */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f5f9;
+    color: #0f172a;
+    line-height: 1.6;
+}
+
+/* Style for the top portal heading */
+.portal-heading {
+    margin: 0 0 1rem;
+    font-size: 2.8rem;
+    text-align: center;
+    color: #0f172a;
+}
+
+/* Style for main CTA button */
+.cta-button {
+    background-color: #0d9488;
+    color: #ffffff;
+    padding: 0.85rem 1.5rem;
+    border: none;
+    border-radius: 999px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
